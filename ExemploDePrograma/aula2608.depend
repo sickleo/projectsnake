@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1472655127 source:c:\users\alunot18\documents\programas code blocks\aula2608\aluno.cpp
+	"Aluno.h"
+	<iostream>
+
+1472654933 c:\users\alunot18\documents\programas code blocks\aula2608\aluno.h
+	"Pessoa.h"
+	<string>
+
+1472226182 c:\users\alunot18\documents\programas code blocks\aula2608\pessoa.h
+	<string>
+
+1472655127 source:c:\users\alunot18\documents\programas code blocks\aula2608\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1472829713 c:\users\alunot18\documents\programas code blocks\aula2608\funcionario.h
+	"Pessoa.h"
+	<string>
+
+1472654970 source:c:\users\alunot18\documents\programas code blocks\aula2608\main.cpp
+	"Pessoa.h"
+	"Aluno.h"
+	"Funcionario.h"
+	<string>
+	<iostream>
+
+1472655127 source:c:\users\alunot18\documents\programas code blocks\aula2608\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
+1472832189 source:c:\users\leo\desktop\meus programas\exemplodeprograma\aluno.cpp
+	"Aluno.h"
+	<iostream>
+
+1472832191 c:\users\leo\desktop\meus programas\exemplodeprograma\aluno.h
+	"Pessoa.h"
+	<string>
+
+1472832203 c:\users\leo\desktop\meus programas\exemplodeprograma\pessoa.h
+	<string>
+
+1472832197 source:c:\users\leo\desktop\meus programas\exemplodeprograma\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1472832199 c:\users\leo\desktop\meus programas\exemplodeprograma\funcionario.h
+	"Pessoa.h"
+	<string>
+
+1472832200 source:c:\users\leo\desktop\meus programas\exemplodeprograma\main.cpp
+	"Pessoa.h"
+	"Aluno.h"
+	"Funcionario.h"
+	"AlunoFuncionario.h"
+	<string>
+	<iostream>
+	<locale.h>
+
+1472832192 c:\users\leo\desktop\meus programas\exemplodeprograma\alunofuncionario.h
+	"Aluno.h"
+	"Funcionario.h"
+
+1472832202 source:c:\users\leo\desktop\meus programas\exemplodeprograma\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+

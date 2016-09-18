@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1473433954 source:c:\users\leo\desktop\meus programas\projectsnake\game.cpp
+	"game.h"
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1473713989 c:\users\leo\desktop\meus programas\projectsnake\game.h
+	<stdlib.h>
+	<iostream>
+	"food.h"
+	"trap.h"
+
+1473711643 source:c:\users\leo\desktop\meus programas\projectsnake\main.cpp
+	<iostream>
+	<stdlib.h>
+	"game.h"
+	<windows.h>
+
+1473356821 c:\users\leo\desktop\meus programas\projectsnake\game.cpp
+	"game.h"
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1473719694 source:c:\users\leo\desktop\meus programas\projectsnake\food.cpp
+	"food.h"
+	"game.h"
+	<iostream>
+	<windows.h>
+
+1473715802 c:\users\leo\desktop\meus programas\projectsnake\food.h
+
+1473719752 source:c:\users\leo\desktop\meus programas\projectsnake\trap.cpp
+	"trap.h"
+	<iostream>
+	<windows.h>
+
+1473715802 c:\users\leo\desktop\meus programas\projectsnake\trap.h
+	"food.h"
+

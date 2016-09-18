@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1473792593 source:c:\users\leo\desktop\meus programas\2projectsnake2\game.cpp
+	"Game.h"
+	<windows.h>
+
+1473792593 c:\users\leo\desktop\meus programas\2projectsnake2\game.h
+	<stdlib.h>
+	<iostream>
+
+1473792593 source:c:\users\leo\desktop\meus programas\2projectsnake2\main.cpp
+	<iostream>
+	"Game.h"
+	"Life.h"
+
+1473725433 source:c:\users\leo\desktop\meus programas\2projectsnake2\life.cpp
+	"Life.h"
+	<windows.h>
+
+1473787750 c:\users\leo\desktop\meus programas\2projectsnake2\life.h
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	"Food.h"
+	"Trap.h"
+
+1473789554 source:c:\users\leo\desktop\meus programas\2projectsnake2\food.cpp
+	"Food.h"
+	<windows.h>
+	<iostream>
+
+1473790424 c:\users\leo\desktop\meus programas\2projectsnake2\food.h
+	<windows.h>
+
+1473792593 c:\users\leo\desktop\meus programas\2projectsnake2\trap.h
+	<windows.h>
+
+1473792593 source:c:\users\leo\desktop\meus programas\2projectsnake2\trap.cpp
+	"Trap.h"
+	<windows.h>
+	<iostream>
+

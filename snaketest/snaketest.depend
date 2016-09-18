@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472904113 source:c:\users\leo\desktop\meus programas\snaketest\main.cpp
+	<vector>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
